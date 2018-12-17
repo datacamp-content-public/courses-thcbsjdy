@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Занятие 1. Введение'
+description: Введение
 ---
 
 ## Example coding exercise
